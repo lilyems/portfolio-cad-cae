@@ -1,4 +1,4 @@
-# Portfólio de Engenharia Mecânica 🚀
+# Portfólio CAD/CAE 🚀
 
 Bem-vindo ao meu portfólio! Este repositório contém uma coleção de projetos que desenvolvi durante meus estudos e workshops. Aqui você encontrará:
 
