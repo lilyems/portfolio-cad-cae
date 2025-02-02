@@ -8,7 +8,7 @@ Bem-vindo ao meu portfólio! Este repositório contém uma coleção de projetos
 
 ## Ferramentas utilizadas 🛠️
 - **CAD**: CATIA, NX SIEMENS, SolidWorks, Inventor e AutoCAD
-- **Análises**: Ansys, Abaqus, NASTRAM, STAR+ e CAESAR II
+- **Análises CAE**: Ansys, Abaqus, NASTRAM, STAR+ e CAESAR II
 - **Outros**: MATLAB, Excel
 
 ## Projetos 📂
