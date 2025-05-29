@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfólio de Emily | Engenharia Mecânica</title>
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Raleway', sans-serif;
+      background-color: #f9f9f9;
+      color: #222;
+    }
+    header {
+      background-color: #004C6D;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    p {
+      margin: 0.5rem 0 0;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    .projeto {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      margin-bottom: 2rem;
+      padding: 1rem;
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+    .projeto img {
+      width: 180px;
+      height: auto;
+      border-radius: 8px;
+      object-fit: cover;
+    }
+    .projeto h2 {
+      margin: 0;
+      color: #004C6D;
+    }
+    .projeto a {
+      color: #D18FA6;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Portfólio de Emily</h1>
+    <p>Engenharia Mecânica | Projetos CAD, Simulação, Arduino e mais</p>
+  </header>
+  <div class="container">
+
+    <div class="projeto">
+      <img src="assets/imagens-de-capa/cad1.jpg" alt="Imagem projeto CAD">
+      <div>
+        <h2>Projeto CAD — Peça Técnica</h2>
+        <p>Modelagem feita no SENAI usando SolidWorks. Envolve detalhamento de corte e montagem.</p>
+        <a href="projetos/CAD-SENAI/projeto-1-nome/">Ver Projeto →</a>
+      </div>
+    </div>
+
+    <div class="projeto">
+      <img src="assets/imagens-de-capa/ansys.jpg" alt="Simulação Ansys">
+      <div>
+        <h2>Freio de Mão — Análise Estrutural</h2>
+        <p>Simulação no Ansys com otimização topológica e troca de material de aço para alumínio.</p>
+        <a href="projetos/freio-mao-ansys/">Ver Projeto →</a>
+      </div>
+    </div>
+
+    <!-- Adicione mais projetos aqui seguindo o mesmo modelo -->
+
+  </div>
+
+  <footer>
+    © 2025 Emily • github.com/seu-usuario
+  </footer>
+</body>
+</html>
