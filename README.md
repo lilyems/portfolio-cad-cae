@@ -14,6 +14,7 @@ Bem-vindo ao meu portfólio! Este repositório contém uma coleção de projetos
 ## Projetos 📂
 - [Projeto 1 - Modelagem de um sistema de transmissão](projetos-CAD/projeto1/)
 - [Projeto 2 - Análise estrutural de um chassi](analises-estruturais/projeto1/)
+- [Projeto 3 - 
 
 ---
 
